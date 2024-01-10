@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Zenveus.SC**
 
-- 🌱 I’m currently learning **Angular and JFrame**
+- 🌱 I’m currently learning **Angular and Java**
 
 - 📫 How to reach me **gayashan9090@gmail.com**
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shen8singh&show_icons=true&locale=en" alt="shen8singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shen8singh&" alt="shen8singh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shen8singh" alt="shen8singh" /></p>

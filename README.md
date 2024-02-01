@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayashan Ashinshana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Zenveus.SC**
 
-- 🌱 I’m currently learning **Angular and JFrame**
+- 🌱 I’m currently learning **Angular and JavaFx**
 
 - 📫 How to reach me **gayashan9090@gmail.com**
 

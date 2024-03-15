@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Zenveus.SC**
 
-- 🌱 I’m currently learning **Angular and JavaFx**
+- 🌱 I’m currently learning **Angular and Java**
 
 - 📫 How to reach me **gayashan9090@gmail.com**
 

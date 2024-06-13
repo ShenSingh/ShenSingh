@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gayashan Ashinshana</h1>
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="center" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
 
-<p align="left"> <a href="https://twitter.com/gayashanashins" target="blank"><img src="https://img.shields.io/twitter/follow/gayashanashinshana?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/gayashanashins" target="blank"><img src="https://img.shields.io/twitter/follow/gayashanashinshana?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Zenveus.SC**
 
